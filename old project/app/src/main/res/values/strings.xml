@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HikenWatch</string>
+    <string name="title_activity_idle_map">Map</string>
+    <string name="title_activity_connecting">ConnectingActivity</string>
+</resources>
