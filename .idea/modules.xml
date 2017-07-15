@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GuidePhone/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/GuidePhone/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old project/app/src/test/java/com/hikenwatch/hikenwatch.iml" filepath="$PROJECT_DIR$/old project/app/src/test/java/com/hikenwatch/hikenwatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old project/app/src/androidTest/java/com/hikenwatch/hikenwatch1.iml" filepath="$PROJECT_DIR$/old project/app/src/androidTest/java/com/hikenwatch/hikenwatch1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old project/app/src/main/main.iml" filepath="$PROJECT_DIR$/old project/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuidePhone/app/src/test/test.iml" filepath="$PROJECT_DIR$/GuidePhone/app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
